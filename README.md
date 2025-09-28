@@ -1,9 +1,10 @@
-# Tópicos Especiais em Programação III - Desenvolvimento Web
-## Atividade Prática 2 – Bootstrap e Javascript
+# Atividade Prática 2 – Bootstrap e Javascript
 
 ### Descrição do Projeto
 
 Este projeto é um dashboard interativo para monitoramento de dados de COVID-19, desenvolvido como frontend utilizando **Bootstrap 5.3.3** para layout responsivo, **JavaScript** para interações dinâmicas e consumo de API externa. O foco é apresentar estatísticas de casos de doença de forma visual e interativa. A página consome a API **disease.sh** para dados em tempo real e utiliza **Chart.js** como biblioteca de visualização de dados.
+
+Projeto desenvolvido para a disciplina de **Tópicos Especiais em Programação III - Desenvolvimento Web**.
 
 ### Tecnologias Utilizadas
 
@@ -27,7 +28,8 @@ AP2_TEPIII/
 ### Como Executar
 
 1. Baixe os arquivos para uma pasta local.
-2. Abra `index.html` em um navegador moderno (ex: Chrome).
+2. Abra `index.html` em um navegador.
 3. Requer conexão com internet para CDNs (Bootstrap, Chart.js) e API disease.sh.
 
-Desenvolvido com ❤️ para fins educacionais.
+---
+Desenvolvido com ♡ para fins educacionais.
